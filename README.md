@@ -1,7 +1,7 @@
 ## An open financial system that can greatly equalize and lift billions out of poverty
 
 `Coinbase Logo`
-![Logo](Coinbase logo.JPG)
+![Logo](Coinbase_logo.JPG)
 
 `Coinbase Location`
 [Location](Coinbase, Inc.
