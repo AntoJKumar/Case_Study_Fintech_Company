@@ -15,23 +15,24 @@ San Francisco, CA 94111)
 Coinbase was coined in *2012*, that had the radical idea that anyone- anywhere- should be able to easily and securely access Cyptro assest and act as a catalyst for creating an open financial system around the world.
 
 ## Architects of coin_base
-- Brain Armstrong (*Air bnb Engineer previously*)
+- Brain Armstrong (*Former Air bnb Engineer *)
 ![Brain](Brian.JPG)
 
-- Fred Ehrsam (*Goldman Sachs trader*)
-   ![Fred](Fred.JPG)
+
+- Fred Ehrsam (*Former Goldman Sachs trader*)
+![Fred](Fred.JPG)
 
 ## Start point:
     
 During college days Brain and his roomate started a tutoring company and had to get bank account
 setup to start the money flow through it. After couple of day bank gave them a call to inquire about cash flow into the account with all complicated financial terms and it left two gentlemens like a criminal being interrogated.
-Fast forwarding couple of years later Brain joined Air bnb as a software engineer, moving money 
+--- Fast forwarding couple of years later Brain joined Air bnb as a software engineer, moving money 
 to 190 countries all over the world and in those days US compaines could'nt do businees with Cuba due to regulation.
-Moreover due to credit score which was affected for uncertian reasons and unclear in declining
+--- Moreover due to credit score which was affected for uncertian reasons and unclear in declining
 credit card and transfering of funds from one end to the other was rejected or carried a high fee.
 It seemed like there were no innovation in the financial sector over a period of time when 
 introvert moment help him to come across a reserach paper from *Satoshi Nakamto* of having interent decentrailzed and global to pass on the information. This sparked and led towards a solution which could make financial system that was more efficient and open to everyone.
-Finally, the reserach paper kick started coding prototype which eventually ended up becoming *`Coinbase`*
+--- Finally, the reserach paper kick started coding prototype which eventually ended up becoming *`Coinbase`*
 
 ## Coinbase Funding, Valuation & Revenue
 According to [Crunchbase](https://www.crunchbase.com/organizationcoinbase#section-lists-featuring-this-company), 
