@@ -16,7 +16,7 @@ Coinbase was coined in *2012*, that had the radical idea that anyone- anywhere- 
 ## Architects of coin_base
 ![Brain](Brian.JPG)
 - Brain Armstrong (*Air bnb Engineer previously*)
-![Fred] (Fred.JPG)
+![Fred](Fred.JPG)
 - Fred Ehrsam (*Goldman Sachs trader*)
 
 ## Start point:
