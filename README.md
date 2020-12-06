@@ -1,7 +1,7 @@
 ## An open financial system that can greatly equalize and lift billions out of poverty
 
 `Coinbase Logo`
-![Logo](Coinbase_logo.JPG)
+![Logo](Coinbase.JPG)
 
 `Coinbase Location`
 [Location](Coinbase, Inc.
@@ -31,7 +31,7 @@ introvert moment help him to come across a reserach paper from *Satoshi Nakamto*
     Finally, the reserach paper kick started coding prototype which eventually ended up becoming *`Coinbase`*
 
 ## Coinbase Funding, Valuation & Revenue
-    According to [Crunchbase](https://www.crunchbase.com/organizationcoinbase#section-lists-featuring-this-company), 
+According to [Crunchbase](https://www.crunchbase.com/organizationcoinbase#section-lists-featuring-this-company), 
 Coinbase has raised a total of *$547.3 million* in `nine rounds` of funding. During its `last Series E round`, in which the company raised *$300 million*, **Coinbase was valued at $8 billion**.
 Investors into the company include Andreessen Horowitz, Y Combinator, Wellington Management, Tiger Global Management, Ribbit Capital, and many others.
 
@@ -140,11 +140,11 @@ Investors into the company include Andreessen Horowitz, Y Combinator, Wellington
 - Performace metric
     - *User Base*
         Coinbase user base has been in an upward trend since the start of the company in 2012. 
-        [Userbase](user_base.JPG)
+        ![Userbase](User_base.JPG)
 
      - *Wallet*
         Coinbase user base wallet app has shown some exponetially growth over the year when compared to their competitors.
-        [Wallets](Wallets.JPG)
+        ![Wallets](Wallets.JPG)
 
 ## Recommendation
 
