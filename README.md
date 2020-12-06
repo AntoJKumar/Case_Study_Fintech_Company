@@ -1,9 +1,9 @@
 ## An open financial system that can greatly equalize and lift billions out of poverty
 
-`Coinbase Logo`
+`Coinbase Logo` \n
 ![Logo](Coinbase.JPG)
 
-`Coinbase Location`
+`Coinbase Location`\n
 [Location](Coinbase, Inc.
 100 Pine Street
 Suite 1250
@@ -14,10 +14,11 @@ San Francisco, CA 94111)
 Coinbase was coined in *2012*, that had the radical idea that anyone- anywhere- should be able to easily and securely access Cyptro assest and act as a catalyst for creating an open financial system around the world.
 
 ## Architects of coin_base
-![Brain](Brian.JPG)
 - Brain Armstrong (*Air bnb Engineer previously*)
-![Fred](Fred.JPG)
+![Brain](Brian.JPG)
+
 - Fred Ehrsam (*Goldman Sachs trader*)
+![Fred](Fred.JPG)
 
 ## Start point:
     During college days Brain and his roomate started a tutoring company and had to get bank account
